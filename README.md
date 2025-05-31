@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/logo.png" alt="Project Logo" width="200"/>
+  <h1>Local Store MCP</h1>
+  <p><em>Your Data, Store Local</em></p>
+</div>
+
+
 # Knowledge Vault MCP Server
 
 A local knowledge management MCP server built with FastMCP framework.
