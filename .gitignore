@@ -20,3 +20,4 @@ Thumbs.db
 # Project specific
 .env
 *.log
+*.mp4
