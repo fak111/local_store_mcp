@@ -6,8 +6,8 @@
 
 
 ## Demo Video
-[📹 View Full Video](assets/introduce.mp4)
 
+https://github.com/user-attachments/assets/4b8f11cd-bb9f-4822-b241-60ecd60bf39f
 
 ## Features
 
@@ -17,6 +17,10 @@
 - 📊 **Statistics**: Knowledge base usage statistics
 - 💾 **Secure Storage**: Data stored in user home directory
 - 🔒 **Thread Safe**: Support concurrent access
+
+
+
+
 
 ## Project Structure
 
