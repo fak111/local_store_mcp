@@ -5,16 +5,6 @@
 </div>
 
 
-# Knowledge Vault MCP Server
-
-<p align="center">
-  <img src="assets/logo.png" alt="Knowledge Vault Logo" width="200" height="200">
-</p>
-
-<p align="center">
-  <strong>A local knowledge management MCP server built with FastMCP framework.</strong>
-</p>
-
 ## Demo Video
 [📹 View Full Video](assets/introduce.mp4)
 
